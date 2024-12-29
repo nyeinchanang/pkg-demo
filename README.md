@@ -7,7 +7,7 @@ This is a demo package for tutorial purposes.
 To install the package, use the following command:
 
 ```bash
-npm install pkg-demo
+npm install @nyeinchanaungnk/pkg-demo
 ```
 
 ## License
