@@ -1,0 +1,30 @@
+{
+  "name": "pkg-demo",
+  "version": "1.0.0",
+  "description": "A demo package tutorial purposes",
+  "keywords": [
+    "demo",
+    "typescript"
+  ],
+  "homepage": "https://github.com/nyeinchanang/pkg-demo",
+  "bugs": {
+    "url": "https://github.com/nyeinchanang/pkg-demo/issues"
+  },
+  "author": "Nyein Chan Aung <nyeinchanaung.nk@gmail.com> (https://github.com/nyeinchanang)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyeinchanang/pkg-demo.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
